@@ -4,7 +4,6 @@ for(var a = 0 ; a <= 11; a +=1){
 }
 
 //while é movido por condição 
-
 var a = 0 //variável iniciada 
 while (a < 10) {
     console.log(`Repetindo porque ${a} é menor que 10`)
