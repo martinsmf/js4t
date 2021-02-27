@@ -1,5 +1,4 @@
 //for é movido por declaração
-
 for(var a = 0 ; a <= 11; a +=1){
     console.log(`Repetindo porque ${a} é menor ou igual a 10`)
 }
