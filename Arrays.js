@@ -1,6 +1,6 @@
 // var avengers = new Array()
 
-var avengers = ['Homem de Ferro', 'Capião América', 'Thor']
+var avengers = ['Homem de Ferro', 'Capião América', 'Thor', 'Hullk', 'Viuva negra']
 
 avengers.push('Matheus')
 
