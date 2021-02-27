@@ -12,8 +12,6 @@ while (a < 10) {
     a++
 }
 
-
-
 var avengers = ['Iromen', 'Spiderman', 'Thor', 'Captian America', 'Black Panther', 'Black Window']
 
 avengers.forEach(function(value, key) {
