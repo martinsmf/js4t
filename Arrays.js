@@ -2,10 +2,7 @@
 
 var avengers = ['Homem de Ferro', 'Capião América', 'Thor']
 
-
 avengers.push('Matheus')
-
-
 
 avengers.push('Homem Arranha')
 
