@@ -22,3 +22,6 @@ switch (ingresso) {
         console.log('Tipo de ingresso invalido')
         break;
 }
+
+if(true)
+    console.log('É nois aprendendo Gitkraken')
