@@ -17,7 +17,6 @@ avengers.push('Gavão Arqueiro')
 
 console.log(avengers)
 
-
 var newAvengers = ['Homem Aranha', 'Capitã Marvel', 'Miss Marvel', 'Pantera Negra']
 
 var result = avengers.concat(newAvengers)
