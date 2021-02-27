@@ -12,7 +12,7 @@ while (a < 10) {
     a++
 }
 
-var avengers = ['Iromen', 'Spiderman', 'Thor', 'Captian America', 'Black Panther', 'Black Window']
+var avengers = ['Iromen', 'Spiderman', 'Thor', 'Captian America', 'Black Panther', 'Black Window', 'Visão']
 
 avengers.forEach(function(value, key) {
     console.log(`${value} na posição ${key}`) 
